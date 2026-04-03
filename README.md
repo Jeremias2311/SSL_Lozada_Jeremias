@@ -1,1 +1,1 @@
-# SSL_Lozada_Jeremias
+#Este es mi repositorio para sintaxis y semantica de los lenguajes.
